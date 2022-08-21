@@ -21,8 +21,11 @@
 
 ### Tech I Use
 
+
 <img 
-src ="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="25" width="25"> <img src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" height="25" width="25">
+src ="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" height="30" width="30"> <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" width="50">
+<img 
+src ="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" width="50">
 
 
 

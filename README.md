@@ -53,4 +53,4 @@ src ="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logo
 </details>
 
 [Linkedin]: https://www.linkedin.com/in/melisa-kaplan-37aa4a209/
-[Instagram]: https://www.instagram.com/melskplan/
+[Instagram]: https://www.instagram.com/meeliskpln/
